@@ -1,4 +1,4 @@
-# **🧭Day 4: Writing and Running Your First Kernel (C++)**
+# **🧭Day 4: Writing and Running our First Kernel (C++)**
 
 Hey everyone! Ronak here. Today is super exciting because we're going to write our first **real kernel in C++**! 🎉 
 
